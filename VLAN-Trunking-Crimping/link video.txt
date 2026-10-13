@@ -1,0 +1,10 @@
+Praktikum Jaringan Komputer VLAN and LAN CABLE CRIMPING
+
+Video Praktikum
+Link YouTube: https://youtu.be/8GeWiqBnrZg
+
+Materi Praktikum
+
+Konfigurasi VLAN dan Trunking menggunakan Cisco Packet Tracer.
+Instalasi dan Crimping Kabel UTP dengan konektor RJ-45.
+Pengujian kabel menggunakan LAN Tester.
